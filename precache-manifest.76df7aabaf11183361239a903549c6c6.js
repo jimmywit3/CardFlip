@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3e5169869dddccd340c1",
+    "revision": "40532012b204342b185f",
     "url": "/CardFlip/static/css/main.e49935b2.chunk.css"
   },
   {
-    "revision": "3e5169869dddccd340c1",
-    "url": "/CardFlip/static/js/main.3e516986.chunk.js"
+    "revision": "40532012b204342b185f",
+    "url": "/CardFlip/static/js/main.40532012.chunk.js"
   },
   {
     "revision": "4d4949a9a9f903a5cc4a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/CardFlip/static/js/runtime~main.8c208c1d.js"
   },
   {
-    "revision": "495d96bd67e33e2fa2bff41f5c965a32",
+    "revision": "bc682f71eeca6d0883a57c9ea036ce11",
     "url": "/CardFlip/index.html"
   }
 ];

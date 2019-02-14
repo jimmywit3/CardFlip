@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CardFlip/precache-manifest.ce8b02ff0eeaba50536815d3c567a4da.js"
+  "/CardFlip/precache-manifest.76df7aabaf11183361239a903549c6c6.js"
 );
 
 workbox.clientsClaim();
