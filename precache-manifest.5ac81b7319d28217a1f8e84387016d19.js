@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/CardFlip/static/js/runtime~main.8c208c1d.js"
   },
   {
-    "revision": "bc682f71eeca6d0883a57c9ea036ce11",
+    "revision": "5ed6b5e7b74c5a8d6714910f1c629cf7",
     "url": "/CardFlip/index.html"
   }
 ];
